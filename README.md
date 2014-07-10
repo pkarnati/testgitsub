@@ -1,0 +1,4 @@
+testgitsub
+==========
+
+testing git submodules
